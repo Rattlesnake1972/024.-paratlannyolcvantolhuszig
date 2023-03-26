@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\024. paratlannyolcvantolhuszig\024. paratlannyolcvantolhuszig\bin\Debug\_024.paratlannyolcvantolhuszig.exe.config
+C:\Users\gratt\source\repos\024. paratlannyolcvantolhuszig\024. paratlannyolcvantolhuszig\bin\Debug\_024.paratlannyolcvantolhuszig.exe
+C:\Users\gratt\source\repos\024. paratlannyolcvantolhuszig\024. paratlannyolcvantolhuszig\bin\Debug\_024.paratlannyolcvantolhuszig.pdb
+C:\Users\gratt\source\repos\024. paratlannyolcvantolhuszig\024. paratlannyolcvantolhuszig\obj\Debug\024. paratlannyolcvantolhuszig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\024. paratlannyolcvantolhuszig\024. paratlannyolcvantolhuszig\obj\Debug\_024.paratlannyolcvantolhuszig.exe
+C:\Users\gratt\source\repos\024. paratlannyolcvantolhuszig\024. paratlannyolcvantolhuszig\obj\Debug\_024.paratlannyolcvantolhuszig.pdb
